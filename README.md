@@ -1,3 +1,6 @@
+(NOTE::THIS FORK OF osuTK DOESN'T HAVE ANYTHING TO DO 
+ ON THE MASTER( ppy/osuTK >> https://github.com/ppy/osuTK ))
+
 osuTK
 ======
 
